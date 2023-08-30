@@ -5,3 +5,4 @@
 Receitas abaixo:
 
 - Lasanha
+- Strongonoff
